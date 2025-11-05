@@ -1,10 +1,11 @@
 # SICK Sensor Kits
-The SICK Sensor Starter Kits provide a comprehensive set of tools and examples to help you quickly get started with SICK sensors. These kits include everything you need to explore, prototype, and integrate sensor solutions into your projects. 
+The SICK Sensor Kits offer you an easy introduction to the world of sensor technology. On this page, you will find easy-to-understand guides and practical examples to get started right away.
 
-![SICK Sensor Kits](images/box.JPG)
+Each kit contains all the essential components for getting started and comes in a compact carrying case.
 
-## LiDAR Starter Kit
-The [LiDAR Starter Kit](lidar/lidar_overview.md) includes examples and tools for working with our PicoScan. 
+## Available Kits ##
+The following kits are currently available, each covering a different topic:
 
-## Vision Starter Kit
-The [Vision Starter Kit](vision/vision_overview.md) includes examples and tools for working with our Inspector P61.
+- [LIDAR Starter Kit](lidar/lidar_overview.md)
+- [Vision Starter Kit](vision/vision_overview.md)
+- [IO Link Starter Kit](iolink/iolink_overview.md)

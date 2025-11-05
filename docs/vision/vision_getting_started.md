@@ -14,8 +14,6 @@ This function/module is part of the Nova tutorial series. For a detailed explana
 ### Nova Tutorial Videos
 ![type:video](https://www.youtube.com/embed/9dk3b6dBXlw?si=_dvCgyK8Z7HEmYnc)
 
-
-
 ## Step 3: Start Coding
 Open your IDE (Visual Studio Code) and run the following demo.
 

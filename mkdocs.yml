@@ -3,32 +3,39 @@ site_url: https://sickag.github.io/SICK-Sensor-Kits
 use_directory_urls: false
 nav:
   - Home: index.md
-  - LiDAR Sensor Kit: 
-    - Overview: lidar/lidar_overview.md
-    - Getting Started: lidar/lidar_getting_started.md
-    - Code Snippets: lidar/lidar_code_snippets.md
-    - Advanced: lidar/lidar_advanced.md
   - Vision Sensor Kit: 
     - Overview: vision/vision_overview.md
     - Getting Started: vision/vision_getting_started.md
     - Code Snippets: vision/vision_code_snippets.md
     - Advanced: vision/vision_advanced.md
+  - LiDAR Sensor Kit: 
+    - Overview: lidar/lidar_overview.md
+    - Getting Started: lidar/lidar_getting_started.md
+    - Code Snippets: lidar/lidar_code_snippets.md
+    - Advanced: lidar/lidar_advanced.md
+  - IO-Link Starter Kit: 
+    - Overview: iolink/iolink_overview.md
+    - Getting Started: iolink/iolink_getting_started.md
+    - Code Snippets: iolink/iolink_code_snippets.md
+    - Advanced: iolink/iolink_advanced.md
   - FAQ: faq.md
   - Imprint: https://www.sick.com/de/de/s/imprint
+
 theme:
-  name: readthedocs
+  language: en
+  name: material
   palette:
-    primary: 'red'
-    accent: 'green'
+    primary: custom
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
   logo: 'images/sick_logo.png'
   features:
     - content.code.copy
+  favicon: 'images/favicon.ico'
+extra_css:
+  - stylesheets/extra.css
 copyright: "© SICK AG 2025"
-extra:
-  social:
 plugins:
   - mkdocs-video
 
