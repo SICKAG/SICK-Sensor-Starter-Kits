@@ -3,7 +3,7 @@ The SICK Sensor Kits offer you an easy introduction to the world of sensor techn
 
 Each kit contains all the essential components for getting started and comes in a compact carrying case.
 
-## Available Kits ##
+## Available Kits 123 ##
 The following kits are currently available, each covering a different topic:
 
 - [LIDAR Starter Kit](lidar/lidar_overview.md)
