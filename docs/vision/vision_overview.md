@@ -27,20 +27,102 @@ The Vision Starter Kit contains the following parts:
 - **Network Cable**  
 - **Network Adapter**  
 - **Transport Box**  
+<br>
 
-| #  | Article Description                                                                                                  | Quantity | Part No.                                  |
-|----|----------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------|
-| 1  | [InspectorP61x](https://www.sick.com/ag/en/catalog/products/machine-vision-and-identification/machine-vision/inspectorp61x/c/g555810) + software [SICK Nova](https://www.sick.com/ag/en/catalog/products/digital-services-and-software/sick-sensorapps/sick-nova/c/g576400) – Compact industrial vision sensor with color sensor and pre-installed toolset for image processing and AI tools | 1        | 1432322                                   |
-| 2  | Mounting plate – To mount the InspectorP61x to the mounting frame                                                   | 2        | 1131603                                   |
-| 3  | Mounting frame (unassembled) with screw and washer – Adjustable frame (height/angle) to mount the InspectorP61x in a stable position | 5        | 3533635 / 3173225 / 3014724              |
-| 4  | Hex keys – For mounting and adjusting the sensor and mounting components                                            | 1 each   | 3533955 / 3533965 / 3533975              |
-| 5  | Power supply – 24V power supply for the sensor                                                                      | 1        | 6075717                                   |
-| 6  | Network cable – For data transfer between sensor and PC or PLC                                                      | 1        | 21128447                                  |
-| 7  | Network adapter – USB-C adapter for connection of sensor to the laptop                                              | 1        | 60834268                                  |
-| 8  | Hex nuts – Example objects for detection or classification                                                          | 2 each   | 3014205 / 3043919                         |
-| 9  | Screws – Example objects for detection or classification                                                            | 2 each   | 3033885 / 3130491                         |
-|10  | Quickstart Guide – Instructions to help you get started quickly                                                     | 1        | 8030241                                   |
-|11  | Transport box – Everything in one stackable box!                                                                    | 1        | 5352372                                   |
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #005aff; color: white;">
+      <th style="padding: 8px; text-align: left;">#</th>
+      <th style="padding: 8px; text-align: left;">Article Description</th>
+      <th style="padding: 8px; text-align: left;">Quantity</th>
+      <th style="padding: 8px; text-align: left;">Part No.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>InspectorP61x + software SICK Nova – Compact industrial vision sensor with color sensor and pre-installed toolset for image processing and AI tools</td>
+      <td>1</td>
+      <td>1432322</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Mounting plate – To mount the InspectorP61x to the mounting frame</td>
+      <td>2</td>
+      <td>1131603</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Mounting frame (unassembled) with screw and washer – Adjustable frame (height/angle) to mount the InspectorP61x in a stable position</td>
+      <td>5</td>
+      <td>
+        3533635<br>
+        3173225<br>
+        3014724
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Hex keys – For mounting and adjusting the sensor and mounting components</td>
+      <td>1 each</td>
+      <td>
+        3533955<br>
+        3533965<br>
+        3533975
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Power supply – 24V power supply for the sensor</td>
+      <td>1</td>
+      <td>6075717</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Network cable – For data transfer between sensor and PC or PLC</td>
+      <td>1</td>
+      <td>21128447</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Network adapter – USB-C adapter for connection of sensor to the laptop</td>
+      <td>1</td>
+      <td>60834268</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Hex nuts – Example objects for detection or classification</td>
+      <td>2 each</td>
+      <td>
+        3014205<br>
+        3043919
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Screws – Example objects for detection or classification</td>
+      <td>2 each</td>
+      <td>
+        3033885<br>
+        3130491
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Quickstart Guide – Instructions to help you get started quickly</td>
+      <td>1</td>
+      <td>8030241</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Transport box – Everything in one stackable box!</td>
+      <td>1</td>
+      <td>5352372</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
 
 **beschriftetes Bild mit allen Teilen**
 
