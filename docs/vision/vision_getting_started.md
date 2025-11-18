@@ -96,7 +96,11 @@ Use the two remaining countersunk screws to mount the top bar between the two ve
 
 **If you want to learn more about the device or Nova, check out this video**
 
-![type:video](https://www.youtube.com/watch?v=9dk3b6dBXlw&list=PLYOEqjmcX3qGIlwN8jwy4vZcGeNojOnNP&index=4)
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/9dk3b6dBXlw" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 
 

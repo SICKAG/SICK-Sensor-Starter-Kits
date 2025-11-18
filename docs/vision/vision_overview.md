@@ -11,7 +11,7 @@ Don’t have a Vision Starter Kit yet? Purchase yours here!
 
 Link sick.com
 
-![Vision Starter Kit](C:\Users\meinefl\OneDrive - SICK AG\Desktop\SICK-Sensor-Starter-Kits\SICK-Sensor-Starter-Kits\docs\images\A7405946.jpg)
+![Vision Starter Kit](../images\A7405946.jpg)
 
 ## Key Features
 - High-resolution image capture.
