@@ -8,7 +8,7 @@
       
       
       
-        <link rel="canonical" href="https://sickag.github.io/SICK-Sensor-Kits/vision/Sketch_demonstrator_vision_example_project.html">
+        <link rel="canonical" href="https://sickag.github.io/SICK-Sensor-Kits/vision/classify_hex_nuts_screws.html">
       
       
       
@@ -18,7 +18,7 @@
     
     
       
-        <title>Advanced Usage of the Vision Starter Kit - SICK Sensor Kits</title>
+        <title>Classify Hex Nuts / Screws - SICK Sensor Kits</title>
       
     
     
@@ -70,7 +70,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#advanced-usage-of-the-vision-starter-kit" class="md-skip">
+        <a href="#classify-hex-nuts-screws" class="md-skip">
           Skip to content
         </a>
       
@@ -105,7 +105,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Advanced Usage of the Vision Starter Kit
+              Classify Hex Nuts / Screws
             
           </span>
         </div>
@@ -335,12 +335,81 @@
   
   
     <li class="md-nav__item">
-      <a href="chocolate_inspection_vision_example_project.md" class="md-nav__link">
+      <a href="chocolate_inspection.html" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
-    Classify Hex Nuts/Screws - Vision Kit Example Project
+    Classify Hex Nuts/Screws
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="sketch_demonstrator.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sketch Demonstrator
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="chocolate_inspection.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Classify Hex Nuts/Screws
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="rock_paper_scissors.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Rock, Paper, Scissors
     
   </span>
   
@@ -733,8 +802,49 @@
 
 
 
-<div><h1 id="advanced-usage-of-the-vision-starter-kit">Advanced Usage of the Vision Starter Kit</h1>
-<p>x</p></div>
+<div><h1 id="classify-hex-nuts-screws">Classify Hex Nuts / Screws</h1>
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #005aff; color: white;">
+      <th style="padding: 8px; text-align: left;">Short description</th>
+      <th style="padding: 8px; text-align: left;">Required knowledge level</th>
+      <th style="padding: 8px; text-align: left;">Estimated duration</th>
+      <th style="padding: 8px; text-align: left;">Additional hardware and software requirements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Try out the AI Classification tool by taking images of different hex nuts and/or screws to generate your first AI algorithm.</td>
+      <td>Basic</td>
+      <td>30 Minutes</td>
+      <td>none – everything included in the Starter Kit</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Setup the sensor as mentioned in the <a href="vision_getting_started.html">Getting started</a> section</p>
+<p><img alt="Classify hex nuts 1" src="../images/Classify_hex_nuts_1.png"></p>
+<ol>
+<li>Create an <strong>Empty Job</strong> and make sure that <strong>Jobs</strong> and <strong>Acquisition</strong> is selected</li>
+<li>Place the <strong>Hex Nut</strong> in the sensor’s field of view.
+It is recommended to adjust the height of the mounting bracket to get closer to the object (~ 10 cm from the ground)</li>
+<li>Select <strong>Configure</strong></li>
+<li>Click on <strong>Run auto setup</strong>. Adjust the focus with the adjustment tool if necessary</li>
+<li>Click <strong>Recommended</strong>. </li>
+<li>Click <strong>Run</strong> to see the live images</li>
+<li>Adjust the <strong>field of view (FOV)</strong> and <strong>DownsamplE</strong> if useful</li>
+</ol>
+<p><img alt="Classify hex nuts 2" src="../images/Classify_hex_nuts_2.png"></p>
+<ol>
+<li>Click <strong>Add tool</strong> under the Analysis section and choose <strong>Classify &gt; AI Classification</strong></li>
+<li>Make sure the <strong>Hex Nut 1</strong> is in the sensor’s FOV. Adjust the size of the red rectangle to enclose the object</li>
+<li>Open <strong>Class 1</strong>. </li>
+<li>Click on <strong>Add active image</strong>, repeat this step several times with a new identical object or move the object each time</li>
+<li>Place a <strong>Hex Nut 2</strong> in the sensor’s field of view and open <strong>Class 2</strong></li>
+<li>Click on <strong>Add active image</strong>, repeat this step several times with a new identical object or move the object each time</li>
+<li>Click <strong>Train</strong> and wait until the Job is <strong>Successfully trained</strong></li>
+<li>Test if the object is detected reliably. Add more training images to improve the results</li>
+</ol></div>
 
 
 
