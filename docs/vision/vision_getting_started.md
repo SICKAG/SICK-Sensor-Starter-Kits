@@ -58,39 +58,37 @@ Use the two remaining countersunk screws to mount the top bar between the two ve
 
 **Now you are ready start, feel free to try out or choose an [example project](./vision_example_projects.md) or code [snippets](./vision_code_snippets.md) or check out [training materials] (./vision_training_material.md) from below**
 
-<details>
-<summary><strong>Troubleshooting</strong></summary>
+??? Troubleshooting
 
-1. If you can't connect to the sensor, check if the LED **"Ready"** is green.  
-   If not, the power supply is not correctly established. Wait up to 2 minutes and check if the power supply is connected correctly.
+   1. If you can't connect to the sensor, check if the LED **"Ready"** is green.  
+      If not, the power supply is not correctly established. Wait up to 2 minutes and check if the power supply is connected correctly.
 
-2. If you still can’t connect to the device, try changing the IP address of the adapter:  
-   - Open your operating system's network settings (e.g., **Control Panel > Network & Internet** in Windows 10/11, or the equivalent in your OS).  
-   - Choose **Advanced network settings**  
-   - Identify the USB Ethernet adapter (might be listed as **ASIX USB to Gigabit Ethernet Family Adapter**).  
-   - Click on the adapter and select **Properties / Edit**.  
-   - Enter administrator credentials if necessary.  
-   - Configure IP Settings:  
-     - Locate **Internet Protocol Version 4 (TCP/IPv4)** and select **Properties**.  
-     - Change from DHCP to manual IP settings.  
-     - Use the following IP address: `192.168.0.xxx`  
-     - Subnet mask: `255.255.0.0`  
-     - Save changes and restart your computer or adapter if needed.
+   2. If you still can’t connect to the device, try changing the IP address of the adapter:  
+      - Open your operating system's network settings (e.g., **Control Panel > Network & Internet** in Windows 10/11, or the equivalent in your OS).  
+      - Choose **Advanced network settings**  
+      - Identify the USB Ethernet adapter (might be listed as **ASIX USB to Gigabit Ethernet Family Adapter**).  
+      - Click on the adapter and select **Properties / Edit**.  
+      - Enter administrator credentials if necessary.  
+      - Configure IP Settings:  
+      - Locate **Internet Protocol Version 4 (TCP/IPv4)** and select **Properties**.  
+      - Change from DHCP to manual IP settings.  
+      - Use the following IP address: `192.168.0.xxx`  
+      - Subnet mask: `255.255.0.0`  
+      - Save changes and restart your computer or adapter if needed.
 
-3. If you still can’t connect, look up the device IP address via **SICK AppManager**:  
-   [SICK AppManager | SICK](https://www.sick.com/ag/en/catalog/products/machine-vision-and-identification/machine-vision/inspectorp61x/c/g555810)  
-   Go to the **Advanced section** for details.
+   3. If you still can’t connect, look up the device IP address via **SICK AppManager**:  
+      [SICK AppManager | SICK](https://www.sick.com/ag/en/catalog/products/machine-vision-and-identification/machine-vision/inspectorp61x/c/g555810)  
+      Go to the **Advanced section** for details.
 
-4. If you are already connected and using AI tools:  
-   - The device has a trial license. After 2 hours, restart the device to reset the timer.  
-   - Unplug and plug in again. Save configuration beforehand.
+   4. If you are already connected and using AI tools:  
+      - The device has a trial license. After 2 hours, restart the device to reset the timer.  
+      - Unplug and plug in again. Save configuration beforehand.
 
-5. Check the **FAQ section**: [FAQ Link](https://www.sick.com)
+   5. Check the **FAQ section**: [FAQ Link](https://www.sick.com)
 
-6. If the device still has issues:  
-   - Go to the **Support Portal**, register, and create a case to get assistance.
+   6. If the device still has issues:  
+      - Go to the **Support Portal**, register, and create a case to get assistance.
 
-</details>
 
 **Tutorial zu Setup (mechanical setup, electrical connection, mounting frame)**
 

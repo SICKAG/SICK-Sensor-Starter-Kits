@@ -14,7 +14,7 @@ The Kits provide a comprehensive set of sensors, accessories and examples to hel
 
   .slide {
     display: flex;
-    transition: transform 0.8s ease-in-out;
+    transition: transform 1s ease-in-out;
     width: 100%;
   }
 
@@ -76,8 +76,8 @@ The Kits provide a comprehensive set of sensors, accessories and examples to hel
     updateSlide();
   }
 
-  // Auto-slide every 2 seconds
-  setInterval(nextImage, 2000);
+  // Auto-slide every 3 seconds
+  setInterval(nextImage, 3000);
 </script>
 
 <br>

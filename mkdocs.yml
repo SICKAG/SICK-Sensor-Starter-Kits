@@ -8,8 +8,9 @@ nav:
     - Getting Started: vision/vision_getting_started.md
     - Code Snippets: vision/vision_code_snippets.md
     - Advanced: vision/vision_advanced.md
-    - Example Projects: vision_example_projects.md
-    - Training Material: vision_training_material.md
+    - Example Projects: vision/vision_example_projects.md
+    -   Classify Hex Nuts/Screws - Vision Kit Example Project: vision/chocolate_inspection_vision_example_project.md
+    - Training Material: vision/vision_training_material.md
   - LiDAR Sensor Kit: 
     - Overview: lidar/lidar_overview.md
     - Getting Started: lidar/lidar_getting_started.md
