@@ -1,4 +1,4 @@
-site_name: SICK Sensor Kits
+site_name: SICK Sensor Starter Kits
 site_url: https://sickag.github.io/SICK-Sensor-Kits
 use_directory_urls: false
 nav:
@@ -8,11 +8,11 @@ nav:
     - Getting Started: vision/vision_getting_started.md
     - Code Snippets: vision/vision_code_snippets.md
     - Advanced: vision/vision_advanced.md
-    - Example Projects: vision/vision_example_projects.md
-    -   Classify Hex Nuts/Screws: vision/chocolate_inspection.md
-    -   Sketch Demonstrator: vision/sketch_demonstrator.md
-    -   Chocolate Inspection: vision/chocolate_inspection.md
-    -   Rock, Paper, Scissors: vision/rock_paper_scissors.md
+    - Example Projects: 
+      - Classify Hex Nuts/Screws: vision/chocolate_inspection.md
+      - Sketch Demonstrator: vision/sketch_demonstrator.md
+      - Chocolate Inspection: vision/chocolate_inspection.md
+      - Rock, Paper, Scissors: vision/rock_paper_scissors.md
     - Training Material: vision/vision_training_material.md
   - LiDAR Sensor Kit: 
     - Overview: lidar/lidar_overview.md
