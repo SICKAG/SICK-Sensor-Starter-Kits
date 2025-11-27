@@ -358,6 +358,29 @@
   
   
     <li class="md-nav__item">
+      <a href="vision_example_projects.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="classify_hex_nuts_screws.html" class="md-nav__link">
         
   
@@ -547,9 +570,9 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#sick-web-user-interface" class="md-nav__link">
+  <a href="#1-sick-web-user-interface" class="md-nav__link">
     <span class="md-ellipsis">
-      SICK Web user interface
+      1. SICK Web user interface
     </span>
   </a>
   
@@ -1101,9 +1124,9 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#sick-web-user-interface" class="md-nav__link">
+  <a href="#1-sick-web-user-interface" class="md-nav__link">
     <span class="md-ellipsis">
-      SICK Web user interface
+      1. SICK Web user interface
     </span>
   </a>
   
@@ -1296,7 +1319,9 @@ If for any reason you need to repeat the previous steps, the settings will still
 <ol>
 <li>To test whether the sensor is connected, we first switch it on and enter the following command.</li>
 </ol>
+<blockquote>
 <p>"ping 192.168.2.20"</p>
+</blockquote>
 <p>If we have done everything correctly up to this point, the following output should be visible.</p>
 <p><img alt="pingtim" src="../images/pingtim.PNG"></p>
 <p>Now the Raspberry Pi constantly pings the sensor. To interrupt this, we can press CTRL + C.</p>
@@ -1332,17 +1357,10 @@ If your output differs from the one shown here, you should check the IP and the 
 "sudo apt install python3-pip"</p>
 </blockquote>
 <p><br></p>
-<blockquote>
-<p><strong>Note for developers:</strong>
-If you want to develop yourself, you can install Visual Studio Code on your computer or the Raspberry Pi. The command for this would be "sudo apt install code." For the SSH connection, you will need an extension for VS Code: <a href="https://code.visualstudio.com/docs/remote/ssh">Visual Studio Code Tutorial for SSH</a>.</p>
-</blockquote>
-<p><br></p>
+<p><strong>Note for developers:</strong></p>
+<p>If you want to develop yourself, you can install Visual Studio Code on your computer or the Raspberry Pi. The command for this would be "sudo apt install code." For the SSH connection, you will need an extension for VS Code: <a href="https://code.visualstudio.com/docs/remote/ssh">Visual Studio Code Tutorial for SSH</a>.</p>
 <h2 id="start">Start</h2>
-<ol>
-<li>
-<h3 id="sick-web-user-interface">SICK Web user interface</h3>
-</li>
-</ol>
+<h3 id="1-sick-web-user-interface">1. SICK Web user interface</h3>
 <p>Now that we have set up Nova2D in the Starter Kit, we can configure additional settings for our game. </p>
 <p><strong>Data entry</strong></p>
 <p>To ensure that our hand signals are recognized, we now need to find an AI-supported analysis tool. To do this, go to: Analysis → AI Classification</p>
@@ -1358,11 +1376,7 @@ If you want to develop yourself, you can install Visual Studio Code on your comp
 <li>If recognition is still inaccurate after training, more images can be captured to expand the dataset.</li>
 </ol>
 <p>The settings and the dataset can now be saved and exported if necessary. </p>
-<ol>
-<li>
 <h3 id="web-ui">Web UI</h3>
-</li>
-</ol>
 <p>Under Demo, you will find a zip folder containing all the files you need to start the rock, paper, scissors game. Before you can do this, you will need to install all the necessary packages. These are stored in a text file. Copy the folder to your Raspberry Pi and navigate to the correct directory in the terminal (path/to stands for the directory where you saved the folder):</p>
 <blockquote>
 <p>cd path/to/SchereStein/Python</p>
