@@ -1,4 +1,4 @@
-# Vision Sensor Kit Code Snippets
+# Vision Starter Kit Code Snippets
 Below are some example code snippets to help you get started with the Vision Sensor Kit.
 
 **Open your IDE (Visual Studio Code) and run the following demo.**

@@ -77,7 +77,7 @@ The Kits provide a comprehensive set of sensors, accessories and examples to hel
   }
 
   // Auto-slide every 3 seconds
-  setInterval(nextImage, 3000);
+  setInterval(nextImage, 5000);
 </script>
 
 <br>
@@ -91,4 +91,4 @@ Got your Starter Kit(s)? Start exploring now!
 
 - [LIDAR Starter Kit](lidar/lidar_overview.md)
 - [Vision Starter Kit](vision/vision_overview.md)
-- [IO Link Starter Kit](iolink/iolink_overview.md)
+- [IO Link Connectivity Starter Kit](iolink/iolink_overview.md)

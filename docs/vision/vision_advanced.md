@@ -11,7 +11,6 @@ The Vision Starter Kit can also be combined with additional accessories to solve
     <tr style="background-color: #005aff; color: white;">
       <th style="padding: 8px; text-align: left;">#</th>
       <th style="padding: 8px; text-align: left;">Article Description</th>
-      <th style="padding: 8px; text-align: left;">Quantity</th>
       <th style="padding: 8px; text-align: left;">Part No.</th>
     </tr>
   </thead>
@@ -19,34 +18,27 @@ The Vision Starter Kit can also be combined with additional accessories to solve
     <tr>
       <td>1</td>
       <td>T-splitter – Connect an additional device for an output (e.g. signal lamp) in between power supply and InspectorP61x<br>Please note that you need an additional power supply M12 5-pin (6075718) and adapter cable power supply 5 m (2087577) to connect the devices.</td>
-      <td>1</td>
       <td>6030664</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Signal light bar – Optical signal transmitter to visualize a sensor output</td>
-      <td>1</td>
       <td>1114219</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Photoelectric sensor – Trigger sensor for Inspector61x<br>Please note that you need an additional IO-Link cable (2096000)</td>
-      <td>1</td>
       <td>1133545</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>Other objects – Chocolate 3D print files: <a href="https://sick.com/de/en/downloads/media/swp682086">sick.com/de/en/downloads/media/swp682086</a><br>Dices<br>Coins...</td>
-      <td>-</td>
+      <td>Chocolate 3D print files: <a href="https://sick.com/de/en/downloads/media/swp682086">sick.com/de/en/downloads/media/swp682086</a></td>
       <td>-</td>
     </tr>
   </tbody>
 </table>
 
 ## Engineering Tool SICK AppManager
-
-<details>
-<summary><strong>SICK AppManager</strong></summary>
 
 With the engineering tool "SICK AppManager", you can find out the IP address of your device, change it, or upgrade your firmware.
 
@@ -70,25 +62,3 @@ With the engineering tool "SICK AppManager", you can find out the IP address of 
 6. Make sure the device you want to update is selected and click on install in the bottom right corner
 ![SICK AppManager3](../images/SICK AppManager3.png)
 
-**Update SICK Nova**
-
-If you want to upgrade to a newer SICK Nova version, you have two options:
-
-1. via Apppool
-
-
-
-
-
-</details>
-
-## Custom Image Processing
-- Use the Nova2D app to create custom image processing tasks.
-- Export configurations for use in other projects.
-
-## Integration with External Systems
-- Connect the Vision Starter Kit to a PLC or other control systems.
-- Use the provided API for advanced automation tasks.
-
-## Troubleshooting
-If you encounter issues, refer to the FAQ or contact SICK support.

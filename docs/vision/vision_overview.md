@@ -1,7 +1,7 @@
 # Vision Starter Kit Overview
 **Welcome to the Vision Starter Kit!**
 
-Please note that the starter kits are intended for educational purposes only and must not be used in production environments.
+Please note that the Starter Kits are intended for educational purposes only and must not be used in production environments.
 
 The Vision Starter Kit provides tools and examples to help you work with vision-based sensors. It includes an industrial vision sensor with a trial license for AI functions, sample code, configurations, and documentation to get started quickly.
 
@@ -101,15 +101,27 @@ The Vision Starter Kit contains the following parts:
     </tr>
     <tr>
       <td>10</td>
-      <td>Quickstart Guide</td>
+      <td>Transport box</td>
       <td>1</td>
-      <td>8030241</td>
+      <td>352372</td>
     </tr>
     <tr>
       <td>11</td>
-      <td>Transport box</td>
+      <td>Focus adjustment tool</td>
       <td>1</td>
-      <td>5352372</td>
+      <td>2111580</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Focus adjustment tool small</td>
+      <td>1</td>
+      <td>2117576</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Quickstart Guide</td>
+      <td>1</td>
+      <td>8030241</td>
     </tr>
   </tbody>
 </table>

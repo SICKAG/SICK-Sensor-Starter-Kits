@@ -1,6 +1,6 @@
 # Getting Started with the Vision Starter Kit
 
-You are now ready to get started with the Vision Starter Kit. Follow along the instruction below **or scroll down to the tutorial video**.
+You are now ready to get started with the Vision Starter Kit. Follow along the instruction below to setup the sensor.
 
 ## Setup Vision Sensor
 
@@ -22,7 +22,7 @@ You are now ready to get started with the Vision Starter Kit. Follow along the i
 * 8 × M5 T-slot nuts
 * 1 × M4 T-slot nut
 * 4 × Angle brackets
-* 1 × Hex key (3 mm)**
+* 1 × Hex key (3 mm)
 
 **Top Bar**
 
@@ -54,14 +54,15 @@ Use the two remaining countersunk screws to mount the top bar between the two ve
 
 * Mount the Inspector61x bracket using the supplied M4 screw and washer to the T-slot nut on top of the top bar.
 
-**Now you are ready start, feel free to try out or choose an [example project](./vision_example_projects.md) or [code snippets](./vision_code_snippets.md) or check out the[training materials] (./vision_training_material.md) from below**
+**Now you are ready start, feel free to try out or choose an [example project](./vision_example_projects.md) or [code snippets](./vision_code_snippets.md) or check out the[training materials](./vision_training_material.md).**
 
 ## Troubleshooting
 
-   1. If you can't connect to the sensor, check if the LED **"Ready"** is green.  
+   1. Make sure you are disconnected from any VPN as this may block the connection to the network device. 
+   2. If you can't connect to the sensor, check if the LED **"Ready"** is green.  
       If not, the power supply is not correctly established. Wait up to 2 minutes and check if the power supply is connected correctly.
 
-   2. If you still can’t connect to the device, try changing the IP address of the adapter:  
+   3. If you still can’t connect to the device, try changing the IP address of the adapter:  
       - Open your operating system's network settings (e.g., **Control Panel > Network & Internet** in Windows 10/11, or the equivalent in your OS).  
       - Choose **Advanced network settings**  
       - Identify the USB Ethernet adapter (might be listed as **ASIX USB to Gigabit Ethernet Family Adapter**).  
@@ -74,23 +75,20 @@ Use the two remaining countersunk screws to mount the top bar between the two ve
       - Subnet mask: `255.255.0.0`  
       - Save changes and restart your computer or adapter if needed.
 
-   3. If you still can’t connect, look up the device IP address via **SICK AppManager**:  
+   4. If you still can’t connect, look up the device IP address via **SICK AppManager**:  
       [SICK AppManager | SICK](https://www.sick.com/ag/en/catalog/products/machine-vision-and-identification/machine-vision/inspectorp61x/c/g555810)  
       Go to the **Advanced section** for details.
 
-   4. If you are already connected and using AI tools:  
+   5. If you are already connected and using AI tools:  
       - The device has a trial license. After 2 hours, restart the device to reset the timer.  
       - Unplug and plug in again. Save configuration beforehand.
 
-   5. Check the **FAQ section**: [FAQ Link](https://www.sick.com)
+   6. Check the **FAQ section**: [FAQ Link](https://www.sick.com)
 
-   6. If the device still has issues:  
+   7. If the device still has issues:  
       - Go to the **Support Portal**, register, and create a case to get assistance.
 
-
-**Tutorial zu Setup (mechanical setup, electrical connection, mounting frame)**
-
-**If you want to learn more about the device or Nova, check out this video**
+**If you want to learn more about the device or SICK Nova, check out this tutorial series**
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/9dk3b6dBXlw" 
