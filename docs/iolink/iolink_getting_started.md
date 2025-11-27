@@ -1,6 +1,86 @@
-# Tutorial
-## SICK Video Cloud
-<iframe id="kaltura_player" src='https://api.eu.kaltura.com/p/205/embedPlaykitJs/uiconf_id/23452489?iframeembed=true&amp;entry_id=0_0ajjx9tk&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%220_1rjik8m2%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D'  style="width: 560px;height: 315px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Tutorial SIG300 (1/5) - Quick Start Guide"></iframe>
+# Getting started
 
-## Youtube
+You are now ready to get started with the IO-Link Connectivity Starter Kit. Follow along the instruction below or scroll down to the tutorial video.
+
+## Setup
+
+1.	Connect the SIG300 with the USB-C cable and power supply.
+2.	Choose the correct plug adapter and plug the power supply into an outlet.
+3.	Connect the USB-C cable to the PC.
+4.	Open a browser and enter the default IP address 169.254.0.1
+5.	Connect the sensors W10, UC12 and IM30 with the IO-Link cables to the SIG300
+6.	The devices are now ready to use. Make sure to select “Keep default password”.
+7.	The sensors can be mounted onto the assembled frame (see below) with the mounting brackets (only applies with a Mounting Kit - 1154060) 
+
+![Mounting frame](../images/20251029_074934.png)
+
+
+## Setup Mounting Frame (only applies with Mounting Kit)
+
+![Setup_IO-Link](../images/Setup_iolink.png)
+
+**Required Hardware**
+
+* 5 × Aluminum profiles
+* 8 × End caps
+* 8 × Countersunk screws
+* 8 × M5 T-slot nuts
+* 1 × M4 T-slot nut
+* 4 × Angle brackets
+* 1 × Hex key (3 mm)**
+
+**Top Bar**
+
+* Take one aluminum profile from the box.
+* Insert one M4 T-slot nut into the top groove.
+* Insert two M5 T-slot nuts into the bottom groove (opposite side of the M4 nut).
+* Attach two angle brackets using countersunk screws and tighten them into the M5 T-slot nuts with a hex key.
+* Place end caps on both ends of the profile.
+* Slide the angle brackets to both ends of the profile and tighten the screws so that the angle brackets and end caps are aligned.
+
+**Bottom Bars (x2)**
+
+* Insert one M5 T-slot nut into the center groove of each bar.
+* Attach one angle bracket with countersunk screws and tighten using the hex key.
+* Place end caps on both ends.
+* Position both profiles parallel in front of you, oriented lengthwise, so the ends point toward you and away from you—not sideways across the table.
+
+**Vertical Bars (x2)**
+
+* Insert one M5 T-slot nut at the bottom end of each bar.
+* Mount each vertical bar at a 90° angle to one bottom bar using a countersunk screw and a 3 mm hex key.
+* Insert one M5 T-slot nut at the top end of each bar in the groove facing the other bottom bar.
+* Place an end cap on the top of each vertical bar.
+Use the two remaining countersunk screws to mount the top bar between the two vertical bars with the angle brackets and hex key.
+* Tip: It may be easier to lay the frame down to mount the top bar.
+* Adjust the height and angle of the top bar by loosening and tightening the two inner screws at the top of the vertical bars.
+
+**Final Step**
+
+* Mount the Inspector61x bracket using the supplied M4 screw and washer to the T-slot nut on top of the top bar.
+
+**Now you are ready start, feel free to try out or choose an [example project](./iolink_example_projects.md) or [code snippets](./iolink_code_snippets.md) or check out the[training materials](./iolink_training_material.md) from below**
+
+## Troubleshooting
+
+   1. Make sure you are disconnected from any VPN as this may block the connection to the network device.
+   2. If you can't connect to the network device, check if the LED **"Ready"** is green.  
+      If not, the power supply is not correctly established. Wait up to 2 minutes and check if the power supply is connected correctly.
+
+   3. If you still can’t connect, look up the device IP address via **SICK AppManager**:  
+      [SICK AppManager | SICK](https://www.sick.com/ag/en/catalog/products/machine-vision-and-identification/machine-vision/inspectorp61x/c/g555810)  
+      Go to the **Advanced section** for details.
+
+   4. Check the **FAQ section**: [FAQ Link](https://www.sick.com)
+
+   5. If the device still has issues:  
+      - Go to the **Support Portal**, register, and create a case to get assistance.
+
+
+**Tutorial zu Setup (mechanical setup, electrical connection, mounting frame)**
+
+**If you want to learn more about the network device or Nova, check out this tutorial series**
+
+
+## Tutorial
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YG7Tm6EzI0A?si=JODw6tMatWkURfNq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

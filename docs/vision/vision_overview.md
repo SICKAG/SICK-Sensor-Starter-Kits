@@ -21,14 +21,6 @@ Link sick.com
 ## Hardware
 The Vision Starter Kit contains the following parts:
 
-- **InspectorP61x**  
-- **Mounting Plate** 
-- **Power Supply**  
-- **Network Cable**  
-- **Network Adapter**  
-- **Transport Box**  
-<br>
-
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr style="background-color: #005aff; color: white;">
@@ -41,20 +33,20 @@ The Vision Starter Kit contains the following parts:
   <tbody>
     <tr>
       <td>1</td>
-      <td>InspectorP61x + software SICK Nova – Compact industrial vision sensor with color sensor and pre-installed toolset for image processing and AI tools</td>
+      <td>InspectorP61x + software SICK Nova</td>
       <td>1</td>
       <td>1432322</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Mounting plate – To mount the InspectorP61x to the mounting frame</td>
-      <td>2</td>
+      <td>Mounting plate</td>
+      <td>1</td>
       <td>1131603</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Mounting frame (unassembled) with screw and washer – Adjustable frame (height/angle) to mount the InspectorP61x in a stable position</td>
-      <td>5</td>
+      <td>Mounting frame (unassembled) with screw and washer</td>
+      <td>1</td>
       <td>
         3533635<br>
         3173225<br>
@@ -63,7 +55,7 @@ The Vision Starter Kit contains the following parts:
     </tr>
     <tr>
       <td>4</td>
-      <td>Hex keys – For mounting and adjusting the sensor and mounting components</td>
+      <td>Hex keys</td>
       <td>1 each</td>
       <td>
         3533955<br>
@@ -73,19 +65,19 @@ The Vision Starter Kit contains the following parts:
     </tr>
     <tr>
       <td>5</td>
-      <td>Power supply – 24V power supply for the sensor</td>
+      <td>Power supply</td>
       <td>1</td>
       <td>6075717</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Network cable – For data transfer between sensor and PC or PLC</td>
+      <td>Network cable</td>
       <td>1</td>
       <td>21128447</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Network adapter – USB-C adapter for connection of sensor to the laptop</td>
+      <td>Network adapter</td>
       <td>1</td>
       <td>60834268</td>
     </tr>
@@ -109,13 +101,13 @@ The Vision Starter Kit contains the following parts:
     </tr>
     <tr>
       <td>10</td>
-      <td>Quickstart Guide – Instructions to help you get started quickly</td>
+      <td>Quickstart Guide</td>
       <td>1</td>
       <td>8030241</td>
     </tr>
     <tr>
       <td>11</td>
-      <td>Transport box – Everything in one stackable box!</td>
+      <td>Transport box</td>
       <td>1</td>
       <td>5352372</td>
     </tr>
@@ -124,8 +116,8 @@ The Vision Starter Kit contains the following parts:
 
 <br>
 
-**beschriftetes Bild mit allen Teilen**
+![Components Vision Kit](../images/Quickstart Vision.png)
 
-Explore the [Getting Started Guide](./vision_getting_started.md) and avanced sections for more details.
+Explore the [Getting Started Guide](./vision_getting_started.md) and advanced sections for more details.
 
 Explore our other training offers: [Artificial Intelligence Educational Kit SICK](https://www.sick.com/ag/en/artificial-intelligence-educational-kit/w/educational-set-artificial-intelligence)

@@ -2,15 +2,13 @@
 
 You are now ready to get started with the Vision Starter Kit. Follow along the instruction below **or scroll down to the tutorial video**.
 
-**darunter alles nochmal in Textform + Bilder - ggfs. mit Aufklappern**
-
 ## Setup Vision Sensor
 
-* Connect the Inspector with the network cable and power supply.
-* Connect the network cable to the USB network adapter.
-* Choose the correct plug adapter and plug the power supply into an outlet.
-* Connect the USB network adapter to the PC.
-* Open a browser and enter the default IP address 192.168.0.1.
+1. Connect the Inspector with the network cable and power supply.
+2. Connect the network cable to the USB network adapter.
+3. Choose the correct plug adapter and plug the power supply into an outlet.
+4. Connect the USB network adapter to the PC.
+5. Open a browser and enter the default IP address 192.168.0.1.
 
 ## Setup Mounting Frame
 
@@ -56,9 +54,9 @@ Use the two remaining countersunk screws to mount the top bar between the two ve
 
 * Mount the Inspector61x bracket using the supplied M4 screw and washer to the T-slot nut on top of the top bar.
 
-**Now you are ready start, feel free to try out or choose an [example project](./vision_example_projects.md) or code [snippets](./vision_code_snippets.md) or check out [training materials] (./vision_training_material.md) from below**
+**Now you are ready start, feel free to try out or choose an [example project](./vision_example_projects.md) or [code snippets](./vision_code_snippets.md) or check out the[training materials] (./vision_training_material.md) from below**
 
-??? Troubleshooting
+## Troubleshooting
 
    1. If you can't connect to the sensor, check if the LED **"Ready"** is green.  
       If not, the power supply is not correctly established. Wait up to 2 minutes and check if the power supply is connected correctly.
