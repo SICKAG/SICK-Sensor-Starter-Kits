@@ -10,11 +10,13 @@ IO-Link is becoming increasingly important because it transforms simple sensors 
 
 Don’t have an IO-Link Starter Kit yet? Purchase yours here!
 
+[IO-Link Connectivity Starter Kit](https://www.sick.com/ag/en/edu-teq-io-link-connectivity-starter-kit/p/pn1150862?tab=detail){:target="_blank".md-button}
+
 You can combine the IO-Link Connectivity Starter Kit with a special Mounting Kit with suitable mounting frame and brackets.
 
-Link sick.com
+[Mounting Kit](https://www.sick.com/ag/en/edu-teq-mounting-kit/p/pn1154060?tab=detail){:target="_blank".md-button}
 
-**Bild**
+![IO-Link Connectivity Starter Kit](../images\iolink.jpg)
 
 ## Key Features
 - Seamless IO-Link communication
@@ -92,24 +94,24 @@ The IO-Link Starter Kit consists of the following parts:
     </tr>
     <tr>
       <td>9</td>
-      <td>LED</td>
+      <td>LEDs green and red <br>(fitted into the plug)</td>
       <td>2</td>
       <td>
-        xxxxxxx<br>
-        xxxxxxx
+        6092050<br>
+        6092051
       </td>
     </tr>
     <tr>
       <td>10</td>
-      <td>Quickstart Guide</td>
-      <td>1</td>
-      <td>8031013</td>
-    </tr>
-    <tr>
-      <td>11</td>
       <td>Transport box</td>
       <td>1</td>
       <td>5352759</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Quickstart Guide</td>
+      <td>1</td>
+      <td>8031013</td>
     </tr>
   </tbody>
 </table>

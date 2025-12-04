@@ -59,7 +59,7 @@ Use the two remaining countersunk screws to mount the top bar between the two ve
 
 * Mount the Inspector61x bracket using the supplied M4 screw and washer to the T-slot nut on top of the top bar.
 
-**Now you are ready start, feel free to try out or choose an [example project](./iolink_example_projects.md) or [code snippets](./iolink_code_snippets.md) or check out the[training materials](./iolink_training_material.md) from below**
+**Now you are ready start, feel free to try out or choose an [example project](./iolink_example_projects.md) or [code snippets](./iolink_code_snippets.md) or check out the [training materials](./iolink_training_material.md) from below**
 
 ## Troubleshooting
 
@@ -76,8 +76,6 @@ Use the two remaining countersunk screws to mount the top bar between the two ve
    5. If the device still has issues:  
       - Go to the **Support Portal**, register, and create a case to get assistance.
 
-
-**Tutorial zu Setup (mechanical setup, electrical connection, mounting frame)**
 
 **If you want to learn more about the network device or Nova, check out this tutorial series**
 

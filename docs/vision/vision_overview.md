@@ -9,9 +9,9 @@ Vision and AI is becoming essential in more and more application fields such as 
 
 Don’t have a Vision Starter Kit yet? Purchase yours here!
 
-Link sick.com
+[Starter Kits](https://www.sick.com/ag/en/catalog/produkte/trainings/training-und-weiterbildung/technologietrainings/vision-starter-kit-basics/p/p687691?tab=detail){:target="_blank".md-button}
 
-![Vision Starter Kit](../images\A7405946.jpg)
+![Vision Starter Kit](../images\vision.jpg)
 
 ## Key Features
 - High-resolution image capture.

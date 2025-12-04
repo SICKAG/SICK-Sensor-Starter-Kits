@@ -83,12 +83,8 @@ The Kits provide a comprehensive set of sensors, accessories and examples to hel
 <br>
 Don’t have a Starter Kit yet? Purchase yours here!
 
-[start2](https://sick.com){:target="_blank".md-button}
+[Starter Kits](https://www.sick.com/ag/de/search?text=starter%20kit%20-%20basics){:target="_blank".md-button}
 
-[Subscribe to our newsletter](#){ .md-button }
-
-
-**Link sick.com**
 
 Please note that the starter kits are intended for educational purposes only and must not be used in production environments.
 

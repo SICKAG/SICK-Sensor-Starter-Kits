@@ -54,7 +54,7 @@ Use the two remaining countersunk screws to mount the top bar between the two ve
 
 * Mount the Inspector61x bracket using the supplied M4 screw and washer to the T-slot nut on top of the top bar.
 
-**Now you are ready start, feel free to try out or choose an [example project](./vision_example_projects.md) or [code snippets](./vision_code_snippets.md) or check out the[training materials](./vision_training_material.md).**
+**Now you are ready start, feel free to try out or choose an [example project](./vision_example_projects.md) or [code snippets](./vision_code_snippets.md) or check out the [training materials](./vision_training_material.md).**
 
 ## Troubleshooting
 

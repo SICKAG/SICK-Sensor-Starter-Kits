@@ -21,7 +21,7 @@ nav:
     - Getting Started: lidar/lidar_getting_started.md
     - Code Snippets: lidar/lidar_code_snippets.md
     - Advanced: lidar/lidar_advanced.md
-  - IO-Link Starter Kit: 
+  - IO-Link Connectivity Starter Kit: 
     - Overview: iolink/iolink_overview.md
     - Getting Started: iolink/iolink_getting_started.md
     - Code Snippets: iolink/iolink_code_snippets.md
@@ -63,5 +63,6 @@ markdown_extensions:
   - pymdownx.details
   - def_list
   - attr_list
+  - md_in_html
   - pymdownx.tasklist:
       custom_checkbox: true
