@@ -29,7 +29,7 @@ The goal is to build a Black Jack application that recognizes playing cards, cal
 
 <br>
 
-![Black Jack](../images/blackjack.jpg)
+![Black Jack](../images/blackjack.jpeg)
 
 ## Goal
 

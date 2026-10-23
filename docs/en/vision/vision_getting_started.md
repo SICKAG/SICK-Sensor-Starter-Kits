@@ -8,7 +8,7 @@ You are now ready to get started with the Vision Starter Kit. Follow along the i
 2. Connect the Inspector with the network cable and power supply.
 3. Connect the network cable to the USB network adapter.
 4. Choose the correct plug adapter and plug the power supply into an outlet.
-5. Connect the USB network adapter to the PC.
+5. Connect the USB network adapter to the PC. 
 6. Configure the IP address of the adapter.
 
 ??? sickinfo "Detailed instructions"   
@@ -40,10 +40,15 @@ You are now ready to get started with the Vision Starter Kit. Follow along the i
 
       - Save changes by clicking **Ok** in both windows.
 
+<div style="display: flex; gap: 16px;">
+  <img src="../images/vision_setup_cables.png" alt="Image 1" style="width: 45%;">
+  <img src="../images/inspector_mounted.png" alt="Image 2" style="width: 45%;">
+</div>
+
 - Open a browser and enter the default IP address 192.168.0.1.
 You should now see the below UI. Create an Empty Job.
 
-![Win + R: ncpa.cpl](../images/Vision_1.png)
+![Nova Starting Page](../images/Vision_1.png)
 
 ---
 
@@ -64,16 +69,17 @@ You should now see the below UI. Create an Empty Job.
          If not, the power supply is not correctly established. Wait up to 2 minutes and check if the power supply is connected correctly.
     3. If you still can’t connect, look up the device IP address via **SICK AppManager**:  
          [SICK AppManager | SICK](https://www.sick.com/ag/en/catalog/products/digital-services-and-software/engineering-tools/sick-appmanager/sick-appmanager/p/p532784)  
-         Go to the **Advanced section** for details.
+         Go to the **Advanced section** for details: [Advanced](./vision_advanced.md)
 
     4. If you are already connected and using AI tools:  
-       - The device has a trial license. After 2 hours, restart the device to reset the timer.  
-       - Unplug and plug in again. Save configuration beforehand.
+
+          - The device has a trial license. After 2 hours, restart the device to reset the timer.  
+          - Unplug and plug in again. Save configuration beforehand.
 
     5. Check the **FAQ section**: [FAQ](./vision_faq.md)
 
     6. If you still have issues with the device:  
-         - Go to the **Support Portal**, register, and create a case to get assistance.
+         - Go to the **Support Portal**, register, and create a case to get assistance: [Support Portal](https://support.sick.com/)
 
 
 

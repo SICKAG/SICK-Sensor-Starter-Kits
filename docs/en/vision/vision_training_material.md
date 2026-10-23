@@ -76,6 +76,8 @@ If you are new to the Vision Starter Kit, follow this order:
 
 The following video introduces SICK Nova and shows how to work with typical machine vision tools.
 
+The video is part of a playlist including tutorials about different tools for 2D and 3D machine vision.
+
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/9dk3b6dBXlw"
 title="YouTube video player" frameborder="0"

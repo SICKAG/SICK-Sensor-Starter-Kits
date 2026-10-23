@@ -29,7 +29,7 @@ The goal is to recognize card colors, numbers and special cards and use the clas
 
 <br>
 
-![Uno](../images/Uno.jpg)
+![Uno](../images/uno.jpeg)
 
 ## Goal
 

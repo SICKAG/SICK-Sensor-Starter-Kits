@@ -12,6 +12,8 @@ For general questions about the Starter Kits, support resources or additional tr
 
 ??? question "The device is running slowly. How can I improve the performance?"
 
+    Make sure, the device still has enough storage space. Click on the **3 dots** in the top-right corner, choose **File Explorer** and delete some images if necessary.
+    
     In the **Acquisition** section, you can adjust the **Downsample** slider to reduce the image resolution and increase the processing speed.
 
     This can improve performance, especially when using AI tools or multiple analysis tools in one job.

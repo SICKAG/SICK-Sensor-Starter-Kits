@@ -34,7 +34,7 @@ By following the SICK Nova tutorial series, you will learn how to inspect a choc
 
 <br>
 
-![Chocolate Bar](../images/ai-generated-chocolate-bars-free-png.webp){ width="850" }
+![Chocolate Bar](../images/chocolate.jpeg){ width="850" }
 
 ## What This Project Demonstrates
 

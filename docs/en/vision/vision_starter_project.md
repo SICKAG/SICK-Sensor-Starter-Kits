@@ -49,6 +49,8 @@ Follow the steps below to complete the Vision Starter Project.
 
 ### 1. Image acquisition
 
+<img src="../images/inspector_mounted.png" width="300">
+
 - Set up the Inspector as described in [Getting started](./vision_getting_started.md).
 - Select **Live** on top and press the **Play** button at the bottom to take images continuously.
 -  Place the GitHub info card in the camera's field of view
@@ -154,7 +156,10 @@ If necessary, capture additional images and also add Bad images to optimize resu
 
 ### 5. Reset
 
-At the op right, click on the **3 dots** > **Application defaults**
+!!! warning "Important"
+    Before resetting the device, make sure you export your configuration if you still want to use it. If you want to start with a new application, you can also create another job in the top-left corner instead of resetting the device.
+
+At the top right, click on the **3 dots** > **Application defaults**
 
 ![Vision_16](../images/Vision_16.png)
 

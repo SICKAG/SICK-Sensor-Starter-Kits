@@ -5,6 +5,12 @@ Welcome to the GitHub for the SICK Sensor Starter Kits!
 
 The Kits provide a comprehensive set of sensors, accessories and examples to help you quickly get started with SICK sensors. These kits include everything you need to explore, prototype, and integrate sensor solutions into your projects.
 
+!!! note "Note"
+    The resources for this project are available in two places:
+    <br>**GitHub Pages**: Find instructions, explanations, and example projects on this documentation site.
+    <br>**GitHub Repository**: Access the underlying files, source code, and examples in the repository.
+    <br>Use the **GitHub icon** in the top-right corner to access the repository on GitHub.com.
+
 
 <style>
   .slideshow-container {

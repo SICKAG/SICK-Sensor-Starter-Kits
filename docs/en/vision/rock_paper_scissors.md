@@ -43,7 +43,7 @@ The InspectorP61x detects the hand sign using AI Classification. The Raspberry P
 
 <br>
 
-![Rockpaperscissors](../images/rockpaperscissors.png){.image-medium}
+![Rockpaperscissors](../images/rock_paper_scissors.jpeg){.image-medium}
 
 ## Goal
 

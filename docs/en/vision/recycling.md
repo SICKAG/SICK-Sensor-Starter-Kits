@@ -34,7 +34,7 @@ You will create a Vision Starter Kit application that can distinguish between di
 
 <br>
 
-![Recycling](../images/recycling.jpg)
+![Recycling](../images/recycling.jpeg)
 
 ## Challenge Goal
 

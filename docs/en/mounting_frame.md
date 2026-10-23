@@ -59,6 +59,8 @@ The following parts are required to assemble the mounting frame:
 
 Follow the steps below to assemble the mounting frame.
 
+**Note:** You can also scroll down to the tutorial video to follow along.
+
 ---
 
 ## Step 1: Prepare the top bar

@@ -29,7 +29,7 @@ The goal is to detect player moves on a paper-based game board and use the detec
 
 <br>
 
-![tictactoe](../images/tic_tac_toe.jpg)
+![tictactoe](../images/tic_tac_toe.png)
 
 ## Challenge Goal
 

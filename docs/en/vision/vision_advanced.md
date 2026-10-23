@@ -87,10 +87,6 @@ If you want to upgrade to a newer SICK Nova version, you have two options:
 6. Make sure the device you want to update is selected and click on install in the bottom right corner
 ![SICK AppManager3](../images/SICK AppManager3.png)
 
-## Custom Image Processing
-- Use Nova to create custom image processing tasks.
-- Export configurations for use in other projects.
-
 ## Integration with External Systems
 - Connect the Vision Starter Kit to a PLC or other control systems.
 - Use the provided API for advanced automation tasks.

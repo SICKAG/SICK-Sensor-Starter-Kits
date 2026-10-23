@@ -29,7 +29,7 @@ The goal is to analyze the dartboard image, determine where the ball landed and 
 
 <br>
 
-![darts](../images/darts.jpg)
+![darts](../images/darts.jpeg)
 
 ## Challenge Goal
 

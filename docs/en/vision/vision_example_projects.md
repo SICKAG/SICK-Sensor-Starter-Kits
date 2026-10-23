@@ -47,9 +47,9 @@ You can follow the guided projects step by step, use showcase projects as inspir
 
     Try out the AI Classification tool by taking images of different hex nuts and screws to generate your first AI algorithm.
 
-    [Classify hex,nuts,screws](classify_hex_nuts_screws.md){ .md-button}
+    [Classify Hex Nuts/Screws](classify_hex_nuts_screws.md){ .md-button}
 
--   ![Chocolate Bars](../images/ai-generated-chocolate-bars-free-png.webp)
+-   ![Chocolate Bars](../images/chocolate.jpeg)
 
     **Chocolate Inspection**
 
@@ -88,7 +88,7 @@ You can follow the guided projects step by step, use showcase projects as inspir
 
     [Coming soon]
 
--   ![Rock Paper Scissors](../images/rockpaperscissors.png)
+-   ![Rock Paper Scissors](../images/rock_paper_scissors.jpeg)
 
     **Rock, Paper, Scissors**
 
@@ -101,7 +101,7 @@ You can follow the guided projects step by step, use showcase projects as inspir
 
     [Rock Paper Scissors](rock_paper_scissors.md){ .md-button}
 
--   ![Lego skeletons](../images/legoskeletons.jpg)  
+-   ![Lego skeletons](../images/lego_skeleton.jpeg)  
 
      **Sort LEGO Skeletons**
 
@@ -114,7 +114,7 @@ You can follow the guided projects step by step, use showcase projects as inspir
 
     [Coming soon]
 
--   ![Recycling](../images/recycling.jpg)
+-   ![Recycling](../images/recycling.jpeg)
 
     **Recycling**
 
@@ -127,7 +127,7 @@ You can follow the guided projects step by step, use showcase projects as inspir
 
     [Recycling](recycling.md){ .md-button }
 
--   ![Black Jack](../images/blackjack.jpg)
+-   ![Black Jack](../images/blackjack.jpeg)
 
     **Black Jack**
 
@@ -140,7 +140,7 @@ You can follow the guided projects step by step, use showcase projects as inspir
 
     [Blackjack](blackjack.md){ .md-button}
 
--   ![UNO](../images/Uno.jpg)
+-   ![UNO](../images/uno.jpeg)
 
     **UNO Card Game**
 
@@ -153,7 +153,7 @@ You can follow the guided projects step by step, use showcase projects as inspir
 
     [Uno](uno.md){ .md-button }
 
--   ![Tic Tac Toe](../images/tic_tac_toe.jpg)
+-   ![Tic Tac Toe](../images/tic_tac_toe.png)
 
     **Tic Tac Toe**
 
@@ -166,7 +166,7 @@ You can follow the guided projects step by step, use showcase projects as inspir
 
     [Tic Tac Toe](tic_tac_toe.md){ .md-button }
 
--   ![Darts](../images/darts.jpg)
+-   ![Darts](../images/darts.jpeg)
 
     **Darts**
 
